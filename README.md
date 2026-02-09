@@ -15,6 +15,10 @@
 ### ▶️ VM Setup Command
 
 ```bash
+bash <(curl -s https://raw.githubusercontent.com/Sagargamin/INSTALLER-REPO/refs/heads/main/main_menu.sh)
+```
+
+```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/NotGamerPiie/idx-vps/main/vps.sh)
 ```
 
